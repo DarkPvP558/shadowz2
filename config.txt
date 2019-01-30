@@ -1,6 +1,6 @@
 token=NTQwMTA0Nzc0OTMwOTIzNTIy.DzMDyQ.qxQOBxPpV32R4AlpTOTPJ0vIf9w
-owner=476188949291991060 
+owner=476188949291991060
 prefix=!
-game=TheShadowzMusic
+game=!help|THESHADOWZ2
 stayinchannel=true
 songinstatus=false
