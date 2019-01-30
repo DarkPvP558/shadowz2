@@ -1,0 +1,6 @@
+token=NTI2MjA0NzIwMjE0MzEwOTI1.Dy1Rfw.yO0pJuZpVci-4pxXNc2ZOG7sbzg
+owner=476188949291991060 
+prefix=/
+game=TheShadowzMusic
+stayinchannel=true
+songinstatus=false
